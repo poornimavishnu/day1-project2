@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-         <h1>Let we see the output of JAVASCRIPT</h1>
+         <h1>Let we see the Output of JAVASCRIPT</h1>
          <button onClick={window['alertmsg']}>click to see</button>
          
       </header>
